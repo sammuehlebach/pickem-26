@@ -1,0 +1,2594 @@
+[
+ {
+  "week": 1,
+  "firstKickoff": "2026-09-10T00:20:00.000Z",
+  "lastKickoff": "2026-09-15T00:15:00.000Z",
+  "mnfGameId": "401872931",
+  "games": [
+   {
+    "id": "401872656",
+    "kickoff": "2026-09-10T00:20:00.000Z",
+    "away": "NE",
+    "home": "SEA",
+    "awayFull": "New England Patriots",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   },
+   {
+    "id": "401872657",
+    "kickoff": "2026-09-11T00:35:00.000Z",
+    "away": "SF",
+    "home": "LAR",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "Los Angeles Rams",
+    "neutral": true
+   },
+   {
+    "id": "401872658",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "ATL",
+    "home": "PIT",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401872659",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "BAL",
+    "home": "IND",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401872660",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "BUF",
+    "home": "HOU",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   },
+   {
+    "id": "401872661",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "CHI",
+    "home": "CAR",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401872922",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "CLE",
+    "home": "JAX",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": false
+   },
+   {
+    "id": "401872923",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "NO",
+    "home": "DET",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   },
+   {
+    "id": "401872924",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "NYJ",
+    "home": "TEN",
+    "awayFull": "New York Jets",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401872925",
+    "kickoff": "2026-09-13T17:00:00.000Z",
+    "away": "TB",
+    "home": "CIN",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401872926",
+    "kickoff": "2026-09-13T20:25:00.000Z",
+    "away": "ARI",
+    "home": "LAC",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401872927",
+    "kickoff": "2026-09-13T20:25:00.000Z",
+    "away": "GB",
+    "home": "MIN",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401872928",
+    "kickoff": "2026-09-13T20:25:00.000Z",
+    "away": "MIA",
+    "home": "LV",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401872929",
+    "kickoff": "2026-09-13T20:25:00.000Z",
+    "away": "WSH",
+    "home": "PHI",
+    "awayFull": "Washington Commanders",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401872930",
+    "kickoff": "2026-09-14T00:20:00.000Z",
+    "away": "DAL",
+    "home": "NYG",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401872931",
+    "kickoff": "2026-09-15T00:15:00.000Z",
+    "away": "DEN",
+    "home": "KC",
+    "awayFull": "Denver Broncos",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 2,
+  "firstKickoff": "2026-09-18T00:15:00.000Z",
+  "lastKickoff": "2026-09-22T00:15:00.000Z",
+  "mnfGameId": "401872947",
+  "games": [
+   {
+    "id": "401872932",
+    "kickoff": "2026-09-18T00:15:00.000Z",
+    "away": "DET",
+    "home": "BUF",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401872933",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "CAR",
+    "home": "ATL",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401872934",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "CIN",
+    "home": "HOU",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   },
+   {
+    "id": "401872935",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "CLE",
+    "home": "TB",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401872936",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "GB",
+    "home": "NYJ",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401872937",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "MIN",
+    "home": "CHI",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401872938",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "NO",
+    "home": "BAL",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   },
+   {
+    "id": "401872939",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "PHI",
+    "home": "TEN",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401872946",
+    "kickoff": "2026-09-20T17:00:00.000Z",
+    "away": "PIT",
+    "home": "NE",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401872940",
+    "kickoff": "2026-09-20T20:05:00.000Z",
+    "away": "JAX",
+    "home": "DEN",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401872941",
+    "kickoff": "2026-09-20T20:05:00.000Z",
+    "away": "LV",
+    "home": "LAC",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401872942",
+    "kickoff": "2026-09-20T20:25:00.000Z",
+    "away": "MIA",
+    "home": "SF",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   },
+   {
+    "id": "401872943",
+    "kickoff": "2026-09-20T20:25:00.000Z",
+    "away": "SEA",
+    "home": "ARI",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401872944",
+    "kickoff": "2026-09-20T20:25:00.000Z",
+    "away": "WSH",
+    "home": "DAL",
+    "awayFull": "Washington Commanders",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401872945",
+    "kickoff": "2026-09-21T00:20:00.000Z",
+    "away": "IND",
+    "home": "KC",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   },
+   {
+    "id": "401872947",
+    "kickoff": "2026-09-22T00:15:00.000Z",
+    "away": "NYG",
+    "home": "LAR",
+    "awayFull": "New York Giants",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 3,
+  "firstKickoff": "2026-09-25T00:15:00.000Z",
+  "lastKickoff": "2026-09-29T00:15:00.000Z",
+  "mnfGameId": "401872963",
+  "games": [
+   {
+    "id": "401872948",
+    "kickoff": "2026-09-25T00:15:00.000Z",
+    "away": "ATL",
+    "home": "GB",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401872949",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "CAR",
+    "home": "CLE",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401872950",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "CIN",
+    "home": "PIT",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401872951",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "HOU",
+    "home": "IND",
+    "awayFull": "Houston Texans",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401872952",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "KC",
+    "home": "MIA",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401872953",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "LAC",
+    "home": "BUF",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401872954",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "NYJ",
+    "home": "DET",
+    "awayFull": "New York Jets",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   },
+   {
+    "id": "401872955",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "SEA",
+    "home": "WSH",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   },
+   {
+    "id": "401872956",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "TEN",
+    "home": "NYG",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401872957",
+    "kickoff": "2026-09-27T17:00:00.000Z",
+    "away": "NE",
+    "home": "JAX",
+    "awayFull": "New England Patriots",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": false
+   },
+   {
+    "id": "401872958",
+    "kickoff": "2026-09-27T20:05:00.000Z",
+    "away": "ARI",
+    "home": "SF",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   },
+   {
+    "id": "401872959",
+    "kickoff": "2026-09-27T20:05:00.000Z",
+    "away": "MIN",
+    "home": "TB",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401872960",
+    "kickoff": "2026-09-27T20:25:00.000Z",
+    "away": "BAL",
+    "home": "DAL",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Dallas Cowboys",
+    "neutral": true
+   },
+   {
+    "id": "401872961",
+    "kickoff": "2026-09-27T20:25:00.000Z",
+    "away": "LV",
+    "home": "NO",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   },
+   {
+    "id": "401872962",
+    "kickoff": "2026-09-28T00:20:00.000Z",
+    "away": "LAR",
+    "home": "DEN",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401872963",
+    "kickoff": "2026-09-29T00:15:00.000Z",
+    "away": "PHI",
+    "home": "CHI",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 4,
+  "firstKickoff": "2026-10-02T00:15:00.000Z",
+  "lastKickoff": "2026-10-06T00:15:00.000Z",
+  "mnfGameId": "401872979",
+  "games": [
+   {
+    "id": "401872964",
+    "kickoff": "2026-10-02T00:15:00.000Z",
+    "away": "PIT",
+    "home": "CLE",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401872965",
+    "kickoff": "2026-10-04T13:30:00.000Z",
+    "away": "IND",
+    "home": "WSH",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Washington Commanders",
+    "neutral": true
+   },
+   {
+    "id": "401872966",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "ARI",
+    "home": "NYG",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401872967",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "DAL",
+    "home": "HOU",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   },
+   {
+    "id": "401872968",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "GB",
+    "home": "TB",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401872969",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "JAX",
+    "home": "CIN",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401872970",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "LAR",
+    "home": "PHI",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401872971",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "NE",
+    "home": "BUF",
+    "awayFull": "New England Patriots",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401872972",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "NYJ",
+    "home": "CHI",
+    "awayFull": "New York Jets",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401872973",
+    "kickoff": "2026-10-04T17:00:00.000Z",
+    "away": "TEN",
+    "home": "BAL",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   },
+   {
+    "id": "401872974",
+    "kickoff": "2026-10-04T20:05:00.000Z",
+    "away": "MIA",
+    "home": "MIN",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401872975",
+    "kickoff": "2026-10-04T20:25:00.000Z",
+    "away": "DEN",
+    "home": "SF",
+    "awayFull": "Denver Broncos",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   },
+   {
+    "id": "401872976",
+    "kickoff": "2026-10-04T20:25:00.000Z",
+    "away": "KC",
+    "home": "LV",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401872977",
+    "kickoff": "2026-10-04T20:25:00.000Z",
+    "away": "LAC",
+    "home": "SEA",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   },
+   {
+    "id": "401872978",
+    "kickoff": "2026-10-05T00:20:00.000Z",
+    "away": "DET",
+    "home": "CAR",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401872979",
+    "kickoff": "2026-10-06T00:15:00.000Z",
+    "away": "ATL",
+    "home": "NO",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 5,
+  "firstKickoff": "2026-10-09T00:15:00.000Z",
+  "lastKickoff": "2026-10-13T00:15:00.000Z",
+  "mnfGameId": "401872994",
+  "games": [
+   {
+    "id": "401872980",
+    "kickoff": "2026-10-09T00:15:00.000Z",
+    "away": "TB",
+    "home": "DAL",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401872981",
+    "kickoff": "2026-10-11T13:30:00.000Z",
+    "away": "PHI",
+    "home": "JAX",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": true
+   },
+   {
+    "id": "401872982",
+    "kickoff": "2026-10-11T17:00:00.000Z",
+    "away": "CIN",
+    "home": "MIA",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401872983",
+    "kickoff": "2026-10-11T17:00:00.000Z",
+    "away": "CLE",
+    "home": "NYJ",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401872984",
+    "kickoff": "2026-10-11T17:00:00.000Z",
+    "away": "HOU",
+    "home": "TEN",
+    "awayFull": "Houston Texans",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401872985",
+    "kickoff": "2026-10-11T17:00:00.000Z",
+    "away": "IND",
+    "home": "PIT",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401872986",
+    "kickoff": "2026-10-11T17:00:00.000Z",
+    "away": "LV",
+    "home": "NE",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401872987",
+    "kickoff": "2026-10-11T17:00:00.000Z",
+    "away": "MIN",
+    "home": "NO",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   },
+   {
+    "id": "401872988",
+    "kickoff": "2026-10-11T17:00:00.000Z",
+    "away": "NYG",
+    "home": "WSH",
+    "awayFull": "New York Giants",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   },
+   {
+    "id": "401872989",
+    "kickoff": "2026-10-11T20:05:00.000Z",
+    "away": "DEN",
+    "home": "LAC",
+    "awayFull": "Denver Broncos",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401872990",
+    "kickoff": "2026-10-11T20:25:00.000Z",
+    "away": "CHI",
+    "home": "GB",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401872991",
+    "kickoff": "2026-10-11T20:25:00.000Z",
+    "away": "DET",
+    "home": "ARI",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401872992",
+    "kickoff": "2026-10-11T20:25:00.000Z",
+    "away": "SF",
+    "home": "SEA",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   },
+   {
+    "id": "401872993",
+    "kickoff": "2026-10-12T00:20:00.000Z",
+    "away": "BAL",
+    "home": "ATL",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401872994",
+    "kickoff": "2026-10-13T00:15:00.000Z",
+    "away": "BUF",
+    "home": "LAR",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 6,
+  "firstKickoff": "2026-10-16T00:15:00.000Z",
+  "lastKickoff": "2026-10-20T00:15:00.000Z",
+  "mnfGameId": "401873008",
+  "games": [
+   {
+    "id": "401872995",
+    "kickoff": "2026-10-16T00:15:00.000Z",
+    "away": "SEA",
+    "home": "DEN",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401872996",
+    "kickoff": "2026-10-18T13:30:00.000Z",
+    "away": "HOU",
+    "home": "JAX",
+    "awayFull": "Houston Texans",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": true
+   },
+   {
+    "id": "401872997",
+    "kickoff": "2026-10-18T17:00:00.000Z",
+    "away": "BAL",
+    "home": "CLE",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401872998",
+    "kickoff": "2026-10-18T17:00:00.000Z",
+    "away": "CAR",
+    "home": "PHI",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401872999",
+    "kickoff": "2026-10-18T17:00:00.000Z",
+    "away": "CHI",
+    "home": "ATL",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401873000",
+    "kickoff": "2026-10-18T17:00:00.000Z",
+    "away": "NO",
+    "home": "NYG",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401873001",
+    "kickoff": "2026-10-18T17:00:00.000Z",
+    "away": "NYJ",
+    "home": "NE",
+    "awayFull": "New York Jets",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401873002",
+    "kickoff": "2026-10-18T17:00:00.000Z",
+    "away": "PIT",
+    "home": "TB",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401873003",
+    "kickoff": "2026-10-18T17:00:00.000Z",
+    "away": "TEN",
+    "home": "IND",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401873004",
+    "kickoff": "2026-10-18T20:05:00.000Z",
+    "away": "ARI",
+    "home": "LAR",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   },
+   {
+    "id": "401873005",
+    "kickoff": "2026-10-18T20:25:00.000Z",
+    "away": "BUF",
+    "home": "LV",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401873006",
+    "kickoff": "2026-10-18T20:25:00.000Z",
+    "away": "LAC",
+    "home": "KC",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   },
+   {
+    "id": "401873007",
+    "kickoff": "2026-10-19T00:20:00.000Z",
+    "away": "DAL",
+    "home": "GB",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401873008",
+    "kickoff": "2026-10-20T00:15:00.000Z",
+    "away": "WSH",
+    "home": "SF",
+    "awayFull": "Washington Commanders",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 7,
+  "firstKickoff": "2026-10-23T00:15:00.000Z",
+  "lastKickoff": "2026-10-27T00:15:00.000Z",
+  "mnfGameId": "401873009",
+  "games": [
+   {
+    "id": "401873010",
+    "kickoff": "2026-10-23T00:15:00.000Z",
+    "away": "NE",
+    "home": "CHI",
+    "awayFull": "New England Patriots",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401873011",
+    "kickoff": "2026-10-25T13:30:00.000Z",
+    "away": "PIT",
+    "home": "NO",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "New Orleans Saints",
+    "neutral": true
+   },
+   {
+    "id": "401873012",
+    "kickoff": "2026-10-25T17:00:00.000Z",
+    "away": "CIN",
+    "home": "BAL",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   },
+   {
+    "id": "401873013",
+    "kickoff": "2026-10-25T17:00:00.000Z",
+    "away": "CLE",
+    "home": "TEN",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401873014",
+    "kickoff": "2026-10-25T17:00:00.000Z",
+    "away": "IND",
+    "home": "MIN",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401873015",
+    "kickoff": "2026-10-25T17:00:00.000Z",
+    "away": "MIA",
+    "home": "NYJ",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401873016",
+    "kickoff": "2026-10-25T17:00:00.000Z",
+    "away": "NYG",
+    "home": "HOU",
+    "awayFull": "New York Giants",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   },
+   {
+    "id": "401873017",
+    "kickoff": "2026-10-25T17:00:00.000Z",
+    "away": "SF",
+    "home": "ATL",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401873018",
+    "kickoff": "2026-10-25T17:00:00.000Z",
+    "away": "TB",
+    "home": "CAR",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401873019",
+    "kickoff": "2026-10-25T20:05:00.000Z",
+    "away": "DEN",
+    "home": "ARI",
+    "awayFull": "Denver Broncos",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401873020",
+    "kickoff": "2026-10-25T20:25:00.000Z",
+    "away": "GB",
+    "home": "DET",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   },
+   {
+    "id": "401873021",
+    "kickoff": "2026-10-25T20:25:00.000Z",
+    "away": "LAR",
+    "home": "LV",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401873022",
+    "kickoff": "2026-10-26T00:20:00.000Z",
+    "away": "KC",
+    "home": "SEA",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   },
+   {
+    "id": "401873009",
+    "kickoff": "2026-10-27T00:15:00.000Z",
+    "away": "DAL",
+    "home": "PHI",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 8,
+  "firstKickoff": "2026-10-30T00:15:00.000Z",
+  "lastKickoff": "2026-11-03T01:15:00.000Z",
+  "mnfGameId": "401873036",
+  "games": [
+   {
+    "id": "401873023",
+    "kickoff": "2026-10-30T00:15:00.000Z",
+    "away": "CAR",
+    "home": "GB",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401873024",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "ARI",
+    "home": "DAL",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401873025",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "ATL",
+    "home": "TB",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401873026",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "BAL",
+    "home": "BUF",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401873027",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "CLE",
+    "home": "PIT",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401873028",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "IND",
+    "home": "JAX",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": false
+   },
+   {
+    "id": "401873029",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "LV",
+    "home": "NYJ",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401873030",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "MIN",
+    "home": "DET",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   },
+   {
+    "id": "401873031",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "away": "TEN",
+    "home": "CIN",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401873032",
+    "kickoff": "2026-11-01T21:05:00.000Z",
+    "away": "LAC",
+    "home": "LAR",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   },
+   {
+    "id": "401873033",
+    "kickoff": "2026-11-01T21:25:00.000Z",
+    "away": "KC",
+    "home": "DEN",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401873034",
+    "kickoff": "2026-11-01T21:25:00.000Z",
+    "away": "NE",
+    "home": "MIA",
+    "awayFull": "New England Patriots",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401873035",
+    "kickoff": "2026-11-02T01:20:00.000Z",
+    "away": "PHI",
+    "home": "WSH",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   },
+   {
+    "id": "401873036",
+    "kickoff": "2026-11-03T01:15:00.000Z",
+    "away": "CHI",
+    "home": "SEA",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 9,
+  "firstKickoff": "2026-11-06T01:15:00.000Z",
+  "lastKickoff": "2026-11-10T01:15:00.000Z",
+  "mnfGameId": "401873051",
+  "games": [
+   {
+    "id": "401873037",
+    "kickoff": "2026-11-06T01:15:00.000Z",
+    "away": "JAX",
+    "home": "BAL",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   },
+   {
+    "id": "401873038",
+    "kickoff": "2026-11-08T14:30:00.000Z",
+    "away": "CIN",
+    "home": "ATL",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Atlanta Falcons",
+    "neutral": true
+   },
+   {
+    "id": "401873039",
+    "kickoff": "2026-11-08T18:00:00.000Z",
+    "away": "CLE",
+    "home": "NO",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   },
+   {
+    "id": "401873040",
+    "kickoff": "2026-11-08T18:00:00.000Z",
+    "away": "DAL",
+    "home": "IND",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401873041",
+    "kickoff": "2026-11-08T18:00:00.000Z",
+    "away": "DEN",
+    "home": "CAR",
+    "awayFull": "Denver Broncos",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401873042",
+    "kickoff": "2026-11-08T18:00:00.000Z",
+    "away": "DET",
+    "home": "MIA",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401873043",
+    "kickoff": "2026-11-08T18:00:00.000Z",
+    "away": "LAR",
+    "home": "WSH",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   },
+   {
+    "id": "401873044",
+    "kickoff": "2026-11-08T18:00:00.000Z",
+    "away": "NYG",
+    "home": "PHI",
+    "awayFull": "New York Giants",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401873045",
+    "kickoff": "2026-11-08T18:00:00.000Z",
+    "away": "NYJ",
+    "home": "KC",
+    "awayFull": "New York Jets",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   },
+   {
+    "id": "401873046",
+    "kickoff": "2026-11-08T21:05:00.000Z",
+    "away": "HOU",
+    "home": "LAC",
+    "awayFull": "Houston Texans",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401873047",
+    "kickoff": "2026-11-08T21:05:00.000Z",
+    "away": "LV",
+    "home": "SF",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   },
+   {
+    "id": "401873048",
+    "kickoff": "2026-11-08T21:25:00.000Z",
+    "away": "ARI",
+    "home": "SEA",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   },
+   {
+    "id": "401873049",
+    "kickoff": "2026-11-08T21:25:00.000Z",
+    "away": "GB",
+    "home": "NE",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401873050",
+    "kickoff": "2026-11-09T01:20:00.000Z",
+    "away": "TB",
+    "home": "CHI",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401873051",
+    "kickoff": "2026-11-10T01:15:00.000Z",
+    "away": "BUF",
+    "home": "MIN",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 10,
+  "firstKickoff": "2026-11-13T01:15:00.000Z",
+  "lastKickoff": "2026-11-17T01:15:00.000Z",
+  "mnfGameId": "401873065",
+  "games": [
+   {
+    "id": "401873052",
+    "kickoff": "2026-11-13T01:15:00.000Z",
+    "away": "WSH",
+    "home": "NYG",
+    "awayFull": "Washington Commanders",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401873053",
+    "kickoff": "2026-11-15T14:30:00.000Z",
+    "away": "NE",
+    "home": "DET",
+    "awayFull": "New England Patriots",
+    "homeFull": "Detroit Lions",
+    "neutral": true
+   },
+   {
+    "id": "401873054",
+    "kickoff": "2026-11-15T18:00:00.000Z",
+    "away": "BUF",
+    "home": "NYJ",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401873055",
+    "kickoff": "2026-11-15T18:00:00.000Z",
+    "away": "CAR",
+    "home": "NO",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   },
+   {
+    "id": "401873056",
+    "kickoff": "2026-11-15T18:00:00.000Z",
+    "away": "HOU",
+    "home": "CLE",
+    "awayFull": "Houston Texans",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401873057",
+    "kickoff": "2026-11-15T18:00:00.000Z",
+    "away": "JAX",
+    "home": "TEN",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401873058",
+    "kickoff": "2026-11-15T18:00:00.000Z",
+    "away": "KC",
+    "home": "ATL",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401873059",
+    "kickoff": "2026-11-15T18:00:00.000Z",
+    "away": "MIA",
+    "home": "IND",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401873060",
+    "kickoff": "2026-11-15T18:00:00.000Z",
+    "away": "MIN",
+    "home": "GB",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401873061",
+    "kickoff": "2026-11-15T21:05:00.000Z",
+    "away": "LAR",
+    "home": "ARI",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401873062",
+    "kickoff": "2026-11-15T21:05:00.000Z",
+    "away": "SEA",
+    "home": "LV",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401873063",
+    "kickoff": "2026-11-15T21:25:00.000Z",
+    "away": "SF",
+    "home": "DAL",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401873064",
+    "kickoff": "2026-11-16T01:20:00.000Z",
+    "away": "PIT",
+    "home": "CIN",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401873065",
+    "kickoff": "2026-11-17T01:15:00.000Z",
+    "away": "LAC",
+    "home": "BAL",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 11,
+  "firstKickoff": "2026-11-20T01:15:00.000Z",
+  "lastKickoff": "2026-11-24T01:15:00.000Z",
+  "mnfGameId": "401873078",
+  "games": [
+   {
+    "id": "401873066",
+    "kickoff": "2026-11-20T01:15:00.000Z",
+    "away": "IND",
+    "home": "HOU",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   },
+   {
+    "id": "401873067",
+    "kickoff": "2026-11-22T18:00:00.000Z",
+    "away": "ARI",
+    "home": "KC",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   },
+   {
+    "id": "401873068",
+    "kickoff": "2026-11-22T18:00:00.000Z",
+    "away": "BAL",
+    "home": "CAR",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401873069",
+    "kickoff": "2026-11-22T18:00:00.000Z",
+    "away": "JAX",
+    "home": "NYG",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401873070",
+    "kickoff": "2026-11-22T18:00:00.000Z",
+    "away": "MIA",
+    "home": "BUF",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401873071",
+    "kickoff": "2026-11-22T18:00:00.000Z",
+    "away": "NO",
+    "home": "CHI",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401873072",
+    "kickoff": "2026-11-22T18:00:00.000Z",
+    "away": "TB",
+    "home": "DET",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   },
+   {
+    "id": "401873073",
+    "kickoff": "2026-11-22T18:00:00.000Z",
+    "away": "TEN",
+    "home": "DAL",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401873074",
+    "kickoff": "2026-11-22T21:05:00.000Z",
+    "away": "NYJ",
+    "home": "LAC",
+    "awayFull": "New York Jets",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401873075",
+    "kickoff": "2026-11-22T21:25:00.000Z",
+    "away": "LV",
+    "home": "DEN",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401873076",
+    "kickoff": "2026-11-22T21:25:00.000Z",
+    "away": "PIT",
+    "home": "PHI",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401873077",
+    "kickoff": "2026-11-23T01:20:00.000Z",
+    "away": "MIN",
+    "home": "SF",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "San Francisco 49ers",
+    "neutral": true
+   },
+   {
+    "id": "401873078",
+    "kickoff": "2026-11-24T01:15:00.000Z",
+    "away": "CIN",
+    "home": "WSH",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 12,
+  "firstKickoff": "2026-11-26T01:00:00.000Z",
+  "lastKickoff": "2026-12-01T01:15:00.000Z",
+  "mnfGameId": "401873094",
+  "games": [
+   {
+    "id": "401873079",
+    "kickoff": "2026-11-26T01:00:00.000Z",
+    "away": "GB",
+    "home": "LAR",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   },
+   {
+    "id": "401873081",
+    "kickoff": "2026-11-26T18:00:00.000Z",
+    "away": "CHI",
+    "home": "DET",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   },
+   {
+    "id": "401873080",
+    "kickoff": "2026-11-26T21:30:00.000Z",
+    "away": "PHI",
+    "home": "DAL",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401873082",
+    "kickoff": "2026-11-27T01:20:00.000Z",
+    "away": "KC",
+    "home": "BUF",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401873083",
+    "kickoff": "2026-11-27T20:00:00.000Z",
+    "away": "DEN",
+    "home": "PIT",
+    "awayFull": "Denver Broncos",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401873084",
+    "kickoff": "2026-11-29T18:00:00.000Z",
+    "away": "ATL",
+    "home": "MIN",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401873085",
+    "kickoff": "2026-11-29T18:00:00.000Z",
+    "away": "BAL",
+    "home": "HOU",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   },
+   {
+    "id": "401873086",
+    "kickoff": "2026-11-29T18:00:00.000Z",
+    "away": "LV",
+    "home": "CLE",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401873087",
+    "kickoff": "2026-11-29T18:00:00.000Z",
+    "away": "NO",
+    "home": "CIN",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401873088",
+    "kickoff": "2026-11-29T18:00:00.000Z",
+    "away": "NYG",
+    "home": "IND",
+    "awayFull": "New York Giants",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401873089",
+    "kickoff": "2026-11-29T18:00:00.000Z",
+    "away": "NYJ",
+    "home": "MIA",
+    "awayFull": "New York Jets",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401873090",
+    "kickoff": "2026-11-29T21:05:00.000Z",
+    "away": "TEN",
+    "home": "JAX",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": false
+   },
+   {
+    "id": "401873091",
+    "kickoff": "2026-11-29T21:25:00.000Z",
+    "away": "SEA",
+    "home": "SF",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   },
+   {
+    "id": "401873092",
+    "kickoff": "2026-11-29T21:25:00.000Z",
+    "away": "WSH",
+    "home": "ARI",
+    "awayFull": "Washington Commanders",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401873093",
+    "kickoff": "2026-11-30T01:20:00.000Z",
+    "away": "NE",
+    "home": "LAC",
+    "awayFull": "New England Patriots",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401873094",
+    "kickoff": "2026-12-01T01:15:00.000Z",
+    "away": "CAR",
+    "home": "TB",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 13,
+  "firstKickoff": "2026-12-04T01:15:00.000Z",
+  "lastKickoff": "2026-12-08T01:15:00.000Z",
+  "mnfGameId": "401873108",
+  "games": [
+   {
+    "id": "401873096",
+    "kickoff": "2026-12-04T01:15:00.000Z",
+    "away": "KC",
+    "home": "LAR",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   },
+   {
+    "id": "401873095",
+    "kickoff": "2026-12-06T18:00:00.000Z",
+    "away": "SF",
+    "home": "NYG",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401873097",
+    "kickoff": "2026-12-06T18:00:00.000Z",
+    "away": "CIN",
+    "home": "CLE",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401873098",
+    "kickoff": "2026-12-06T18:00:00.000Z",
+    "away": "DET",
+    "home": "ATL",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401873099",
+    "kickoff": "2026-12-06T18:00:00.000Z",
+    "away": "GB",
+    "home": "NO",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   },
+   {
+    "id": "401873100",
+    "kickoff": "2026-12-06T18:00:00.000Z",
+    "away": "JAX",
+    "home": "CHI",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401873101",
+    "kickoff": "2026-12-06T18:00:00.000Z",
+    "away": "LAC",
+    "home": "TB",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401873102",
+    "kickoff": "2026-12-06T18:00:00.000Z",
+    "away": "WSH",
+    "home": "TEN",
+    "awayFull": "Washington Commanders",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401873103",
+    "kickoff": "2026-12-06T21:05:00.000Z",
+    "away": "MIA",
+    "home": "DEN",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401873104",
+    "kickoff": "2026-12-06T21:05:00.000Z",
+    "away": "PHI",
+    "home": "ARI",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401873105",
+    "kickoff": "2026-12-06T21:25:00.000Z",
+    "away": "BUF",
+    "home": "NE",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401873106",
+    "kickoff": "2026-12-06T21:25:00.000Z",
+    "away": "CAR",
+    "home": "MIN",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401873107",
+    "kickoff": "2026-12-07T01:20:00.000Z",
+    "away": "HOU",
+    "home": "PIT",
+    "awayFull": "Houston Texans",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401873108",
+    "kickoff": "2026-12-08T01:15:00.000Z",
+    "away": "DAL",
+    "home": "SEA",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 14,
+  "firstKickoff": "2026-12-11T01:15:00.000Z",
+  "lastKickoff": "2026-12-15T01:15:00.000Z",
+  "mnfGameId": "401873123",
+  "games": [
+   {
+    "id": "401873109",
+    "kickoff": "2026-12-11T01:15:00.000Z",
+    "away": "MIN",
+    "home": "NE",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401873110",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "ATL",
+    "home": "CLE",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401873111",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "CHI",
+    "home": "MIA",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401873112",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "DEN",
+    "home": "NYJ",
+    "awayFull": "Denver Broncos",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401873113",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "HOU",
+    "home": "WSH",
+    "awayFull": "Houston Texans",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   },
+   {
+    "id": "401873114",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "IND",
+    "home": "PHI",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401873115",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "NO",
+    "home": "CAR",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401873116",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "TB",
+    "home": "BAL",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   },
+   {
+    "id": "401873117",
+    "kickoff": "2026-12-13T18:00:00.000Z",
+    "away": "TEN",
+    "home": "DET",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   },
+   {
+    "id": "401873118",
+    "kickoff": "2026-12-13T21:05:00.000Z",
+    "away": "LAC",
+    "home": "LV",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401873119",
+    "kickoff": "2026-12-13T21:25:00.000Z",
+    "away": "KC",
+    "home": "CIN",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401873120",
+    "kickoff": "2026-12-13T21:25:00.000Z",
+    "away": "LAR",
+    "home": "SF",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   },
+   {
+    "id": "401873121",
+    "kickoff": "2026-12-13T21:25:00.000Z",
+    "away": "NYG",
+    "home": "SEA",
+    "awayFull": "New York Giants",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   },
+   {
+    "id": "401873122",
+    "kickoff": "2026-12-14T01:20:00.000Z",
+    "away": "BUF",
+    "home": "GB",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401873123",
+    "kickoff": "2026-12-15T01:15:00.000Z",
+    "away": "PIT",
+    "home": "JAX",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 15,
+  "firstKickoff": "2026-12-18T01:15:00.000Z",
+  "lastKickoff": "2026-12-22T01:15:00.000Z",
+  "mnfGameId": "401873139",
+  "games": [
+   {
+    "id": "401873124",
+    "kickoff": "2026-12-18T01:15:00.000Z",
+    "away": "SF",
+    "home": "LAC",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401873125",
+    "kickoff": "2026-12-19T22:00:00.000Z",
+    "away": "SEA",
+    "home": "PHI",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401873126",
+    "kickoff": "2026-12-20T01:20:00.000Z",
+    "away": "CHI",
+    "home": "BUF",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401873127",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "ATL",
+    "home": "WSH",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   },
+   {
+    "id": "401873128",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "BAL",
+    "home": "PIT",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401873129",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "CIN",
+    "home": "CAR",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401873130",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "CLE",
+    "home": "NYG",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401873131",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "IND",
+    "home": "TEN",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401873132",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "JAX",
+    "home": "HOU",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   },
+   {
+    "id": "401873133",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "MIA",
+    "home": "GB",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401873134",
+    "kickoff": "2026-12-20T18:00:00.000Z",
+    "away": "NO",
+    "home": "TB",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401873135",
+    "kickoff": "2026-12-20T21:05:00.000Z",
+    "away": "NYJ",
+    "home": "ARI",
+    "awayFull": "New York Jets",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401873136",
+    "kickoff": "2026-12-20T21:25:00.000Z",
+    "away": "DAL",
+    "home": "LAR",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   },
+   {
+    "id": "401873137",
+    "kickoff": "2026-12-20T21:25:00.000Z",
+    "away": "DEN",
+    "home": "LV",
+    "awayFull": "Denver Broncos",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401873138",
+    "kickoff": "2026-12-21T01:20:00.000Z",
+    "away": "DET",
+    "home": "MIN",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401873139",
+    "kickoff": "2026-12-22T01:15:00.000Z",
+    "away": "NE",
+    "home": "KC",
+    "awayFull": "New England Patriots",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 16,
+  "firstKickoff": "2026-12-25T01:15:00.000Z",
+  "lastKickoff": "2026-12-29T01:15:00.000Z",
+  "mnfGameId": "401873155",
+  "games": [
+   {
+    "id": "401873140",
+    "kickoff": "2026-12-25T01:15:00.000Z",
+    "away": "HOU",
+    "home": "PHI",
+    "awayFull": "Houston Texans",
+    "homeFull": "Philadelphia Eagles",
+    "neutral": false
+   },
+   {
+    "id": "401873141",
+    "kickoff": "2026-12-25T18:00:00.000Z",
+    "away": "GB",
+    "home": "CHI",
+    "awayFull": "Green Bay Packers",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401873142",
+    "kickoff": "2026-12-25T21:30:00.000Z",
+    "away": "BUF",
+    "home": "DEN",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401873143",
+    "kickoff": "2026-12-26T01:15:00.000Z",
+    "away": "LAR",
+    "home": "SEA",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "Seattle Seahawks",
+    "neutral": false
+   },
+   {
+    "id": "401873144",
+    "kickoff": "2026-12-27T05:00:00.000Z",
+    "away": "CAR",
+    "home": "PIT",
+    "awayFull": "Carolina Panthers",
+    "homeFull": "Pittsburgh Steelers",
+    "neutral": false
+   },
+   {
+    "id": "401873145",
+    "kickoff": "2026-12-27T05:00:00.000Z",
+    "away": "CIN",
+    "home": "IND",
+    "awayFull": "Cincinnati Bengals",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401873146",
+    "kickoff": "2026-12-27T05:00:00.000Z",
+    "away": "TB",
+    "home": "ATL",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401873147",
+    "kickoff": "2026-12-27T05:00:00.000Z",
+    "away": "WSH",
+    "home": "MIN",
+    "awayFull": "Washington Commanders",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401873148",
+    "kickoff": "2026-12-27T18:00:00.000Z",
+    "away": "ARI",
+    "home": "NO",
+    "awayFull": "Arizona Cardinals",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   },
+   {
+    "id": "401873149",
+    "kickoff": "2026-12-27T18:00:00.000Z",
+    "away": "CLE",
+    "home": "BAL",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   },
+   {
+    "id": "401873150",
+    "kickoff": "2026-12-27T18:00:00.000Z",
+    "away": "LAC",
+    "home": "MIA",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401873151",
+    "kickoff": "2026-12-27T18:00:00.000Z",
+    "away": "NE",
+    "home": "NYJ",
+    "awayFull": "New England Patriots",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401873152",
+    "kickoff": "2026-12-27T21:05:00.000Z",
+    "away": "TEN",
+    "home": "LV",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Las Vegas Raiders",
+    "neutral": false
+   },
+   {
+    "id": "401873153",
+    "kickoff": "2026-12-27T21:25:00.000Z",
+    "away": "SF",
+    "home": "KC",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   },
+   {
+    "id": "401873154",
+    "kickoff": "2026-12-28T01:20:00.000Z",
+    "away": "JAX",
+    "home": "DAL",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401873155",
+    "kickoff": "2026-12-29T01:15:00.000Z",
+    "away": "NYG",
+    "home": "DET",
+    "awayFull": "New York Giants",
+    "homeFull": "Detroit Lions",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 17,
+  "firstKickoff": "2027-01-01T01:15:00.000Z",
+  "lastKickoff": "2027-01-05T01:15:00.000Z",
+  "mnfGameId": "401873171",
+  "games": [
+   {
+    "id": "401873156",
+    "kickoff": "2027-01-01T01:15:00.000Z",
+    "away": "BAL",
+    "home": "CIN",
+    "awayFull": "Baltimore Ravens",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401873157",
+    "kickoff": "2027-01-03T05:00:00.000Z",
+    "away": "DEN",
+    "home": "NE",
+    "awayFull": "Denver Broncos",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401873158",
+    "kickoff": "2027-01-03T05:00:00.000Z",
+    "away": "KC",
+    "home": "LAC",
+    "awayFull": "Kansas City Chiefs",
+    "homeFull": "Los Angeles Chargers",
+    "neutral": false
+   },
+   {
+    "id": "401873159",
+    "kickoff": "2027-01-03T05:00:00.000Z",
+    "away": "LAR",
+    "home": "TB",
+    "awayFull": "Los Angeles Rams",
+    "homeFull": "Tampa Bay Buccaneers",
+    "neutral": false
+   },
+   {
+    "id": "401873160",
+    "kickoff": "2027-01-03T05:00:00.000Z",
+    "away": "WSH",
+    "home": "JAX",
+    "awayFull": "Washington Commanders",
+    "homeFull": "Jacksonville Jaguars",
+    "neutral": false
+   },
+   {
+    "id": "401873161",
+    "kickoff": "2027-01-03T18:00:00.000Z",
+    "away": "BUF",
+    "home": "MIA",
+    "awayFull": "Buffalo Bills",
+    "homeFull": "Miami Dolphins",
+    "neutral": false
+   },
+   {
+    "id": "401873162",
+    "kickoff": "2027-01-03T18:00:00.000Z",
+    "away": "IND",
+    "home": "CLE",
+    "awayFull": "Indianapolis Colts",
+    "homeFull": "Cleveland Browns",
+    "neutral": false
+   },
+   {
+    "id": "401873163",
+    "kickoff": "2027-01-03T18:00:00.000Z",
+    "away": "MIN",
+    "home": "NYJ",
+    "awayFull": "Minnesota Vikings",
+    "homeFull": "New York Jets",
+    "neutral": false
+   },
+   {
+    "id": "401873164",
+    "kickoff": "2027-01-03T18:00:00.000Z",
+    "away": "NO",
+    "home": "ATL",
+    "awayFull": "New Orleans Saints",
+    "homeFull": "Atlanta Falcons",
+    "neutral": false
+   },
+   {
+    "id": "401873165",
+    "kickoff": "2027-01-03T18:00:00.000Z",
+    "away": "NYG",
+    "home": "DAL",
+    "awayFull": "New York Giants",
+    "homeFull": "Dallas Cowboys",
+    "neutral": false
+   },
+   {
+    "id": "401873166",
+    "kickoff": "2027-01-03T18:00:00.000Z",
+    "away": "PIT",
+    "home": "TEN",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "Tennessee Titans",
+    "neutral": false
+   },
+   {
+    "id": "401873167",
+    "kickoff": "2027-01-03T18:00:00.000Z",
+    "away": "SEA",
+    "home": "CAR",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401873168",
+    "kickoff": "2027-01-03T21:05:00.000Z",
+    "away": "LV",
+    "home": "ARI",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401873169",
+    "kickoff": "2027-01-03T21:25:00.000Z",
+    "away": "DET",
+    "home": "CHI",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Chicago Bears",
+    "neutral": false
+   },
+   {
+    "id": "401873170",
+    "kickoff": "2027-01-04T01:20:00.000Z",
+    "away": "PHI",
+    "home": "SF",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "San Francisco 49ers",
+    "neutral": false
+   },
+   {
+    "id": "401873171",
+    "kickoff": "2027-01-05T01:15:00.000Z",
+    "away": "HOU",
+    "home": "GB",
+    "awayFull": "Houston Texans",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   }
+  ]
+ },
+ {
+  "week": 18,
+  "firstKickoff": "2027-01-10T05:00:00.000Z",
+  "lastKickoff": "2027-01-10T05:00:00.000Z",
+  "mnfGameId": "401873187",
+  "games": [
+   {
+    "id": "401873172",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "ATL",
+    "home": "CAR",
+    "awayFull": "Atlanta Falcons",
+    "homeFull": "Carolina Panthers",
+    "neutral": false
+   },
+   {
+    "id": "401873173",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "CHI",
+    "home": "MIN",
+    "awayFull": "Chicago Bears",
+    "homeFull": "Minnesota Vikings",
+    "neutral": false
+   },
+   {
+    "id": "401873174",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "CLE",
+    "home": "CIN",
+    "awayFull": "Cleveland Browns",
+    "homeFull": "Cincinnati Bengals",
+    "neutral": false
+   },
+   {
+    "id": "401873175",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "DAL",
+    "home": "WSH",
+    "awayFull": "Dallas Cowboys",
+    "homeFull": "Washington Commanders",
+    "neutral": false
+   },
+   {
+    "id": "401873176",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "DET",
+    "home": "GB",
+    "awayFull": "Detroit Lions",
+    "homeFull": "Green Bay Packers",
+    "neutral": false
+   },
+   {
+    "id": "401873177",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "JAX",
+    "home": "IND",
+    "awayFull": "Jacksonville Jaguars",
+    "homeFull": "Indianapolis Colts",
+    "neutral": false
+   },
+   {
+    "id": "401873178",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "LV",
+    "home": "KC",
+    "awayFull": "Las Vegas Raiders",
+    "homeFull": "Kansas City Chiefs",
+    "neutral": false
+   },
+   {
+    "id": "401873179",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "LAC",
+    "home": "DEN",
+    "awayFull": "Los Angeles Chargers",
+    "homeFull": "Denver Broncos",
+    "neutral": false
+   },
+   {
+    "id": "401873180",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "MIA",
+    "home": "NE",
+    "awayFull": "Miami Dolphins",
+    "homeFull": "New England Patriots",
+    "neutral": false
+   },
+   {
+    "id": "401873181",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "NYJ",
+    "home": "BUF",
+    "awayFull": "New York Jets",
+    "homeFull": "Buffalo Bills",
+    "neutral": false
+   },
+   {
+    "id": "401873182",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "PHI",
+    "home": "NYG",
+    "awayFull": "Philadelphia Eagles",
+    "homeFull": "New York Giants",
+    "neutral": false
+   },
+   {
+    "id": "401873183",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "PIT",
+    "home": "BAL",
+    "awayFull": "Pittsburgh Steelers",
+    "homeFull": "Baltimore Ravens",
+    "neutral": false
+   },
+   {
+    "id": "401873184",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "SF",
+    "home": "ARI",
+    "awayFull": "San Francisco 49ers",
+    "homeFull": "Arizona Cardinals",
+    "neutral": false
+   },
+   {
+    "id": "401873185",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "SEA",
+    "home": "LAR",
+    "awayFull": "Seattle Seahawks",
+    "homeFull": "Los Angeles Rams",
+    "neutral": false
+   },
+   {
+    "id": "401873186",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "TB",
+    "home": "NO",
+    "awayFull": "Tampa Bay Buccaneers",
+    "homeFull": "New Orleans Saints",
+    "neutral": false
+   },
+   {
+    "id": "401873187",
+    "kickoff": "2027-01-10T05:00:00.000Z",
+    "away": "TEN",
+    "home": "HOU",
+    "awayFull": "Tennessee Titans",
+    "homeFull": "Houston Texans",
+    "neutral": false
+   }
+  ]
+ }
+]
