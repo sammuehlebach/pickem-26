@@ -24,7 +24,8 @@ const kickoffChanges = [];
 async function fetchWeek(week) {
   const url = `${ESPN}?dates=${SEASON}&seasontype=2&week=${week}`;
   for (let attempt = 1; ; attempt++) {
-    const res = await fetch(url, { headers: { "user-agent": "pickem-26 results bot" } });
+    const res = await fetch(url); // note: ESPN 403s custom user-agents
+
     if (res.ok) return res.json();
     if (attempt >= 3) throw new Error(`ESPN week ${week}: HTTP ${res.status}`);
     await new Promise((r) => setTimeout(r, 2000 * attempt));

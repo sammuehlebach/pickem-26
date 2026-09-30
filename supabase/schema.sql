@@ -69,13 +69,14 @@ returns json language sql stable security definer set search_path = public as $$
   );
 $$;
 
--- Who has submitted this week (counts only — never the picks themselves).
+-- Who has submitted this week: which games each player has picked, never which side.
+drop function if exists week_status(int);
 create or replace function week_status(p_week int)
-returns table(player text, n int, has_guess boolean)
+returns table(player text, picked text[], has_guess boolean)
 language sql stable security definer set search_path = public as $$
   select pl.slug,
-         (select count(*)::int from picks p join games g on g.id = p.game_id
-           where p.player = pl.slug and g.week = p_week),
+         coalesce((select array_agg(p.game_id order by p.game_id) from picks p join games g on g.id = p.game_id
+           where p.player = pl.slug and g.week = p_week), '{}'),
          exists (select 1 from guesses q where q.player = pl.slug and q.week = p_week)
   from players pl;
 $$;
