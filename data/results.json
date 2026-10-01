@@ -212,6 +212,12 @@
     "away": 7,
     "home": 27
    }
+  },
+  "adjust": {
+   "thomas-gansner": {
+    "pts": 8,
+    "note": "avg of Week 3 submissions (8.4, rounded) — didn't submit"
+   }
   }
  }
 }
