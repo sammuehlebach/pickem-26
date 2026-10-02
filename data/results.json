@@ -219,5 +219,19 @@
     "note": "avg of Week 3 submissions (8.4, rounded) — didn't submit"
    }
   }
+ },
+ "4": {
+  "week": 4,
+  "final": false,
+  "mnfTotal": null,
+  "winners": {
+   "401872964": "HOME"
+  },
+  "scores": {
+   "401872964": {
+    "away": 24,
+    "home": 27
+   }
+  }
  }
 }
