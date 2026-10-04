@@ -225,12 +225,17 @@
   "final": false,
   "mnfTotal": null,
   "winners": {
-   "401872964": "HOME"
+   "401872964": "HOME",
+   "401872965": "AWAY"
   },
   "scores": {
    "401872964": {
     "away": 24,
     "home": 27
+   },
+   "401872965": {
+    "away": 30,
+    "home": 13
    }
   }
  }
