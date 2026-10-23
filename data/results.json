@@ -471,5 +471,19 @@
     "home": 23
    }
   }
+ },
+ "7": {
+  "week": 7,
+  "final": false,
+  "mnfTotal": null,
+  "winners": {
+   "401873010": "HOME"
+  },
+  "scores": {
+   "401873010": {
+    "away": 24,
+    "home": 30
+   }
+  }
  }
 }
