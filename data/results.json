@@ -474,9 +474,10 @@
  },
  "7": {
   "week": 7,
-  "final": false,
-  "mnfTotal": null,
+  "final": true,
+  "mnfTotal": 59,
   "winners": {
+   "401873009": "AWAY",
    "401873010": "HOME",
    "401873011": "AWAY",
    "401873012": "AWAY",
@@ -492,6 +493,10 @@
    "401873022": "HOME"
   },
   "scores": {
+   "401873009": {
+    "away": 38,
+    "home": 21
+   },
    "401873010": {
     "away": 24,
     "home": 30
